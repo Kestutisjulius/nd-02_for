@@ -4,6 +4,7 @@ const nd2_3 = require('./js/03-step10.js');
 const nd2_4 = require('./js/04-for-49-53.js');
 const nd2_5 = require('./js/05-random.js');
 const nd2_6 = require('./js/06-nDIV3.js');
+const nd2_7 = require('./js/07-multipl_table.js');
 
 /*1. Labas FOR  */
 // console.log('nd2 - LABAS--------2022.04.01');
@@ -21,5 +22,8 @@ const nd2_6 = require('./js/06-nDIV3.js');
 // console.log('nd2 - random  --------2022.04.01');
 // console.log('--5.) ' + nd2_5.random());
 /*6. RANDOM  */
-console.log('nd2 - not DIV 3  --------2022.04.01');
-console.log('--6.) ' + nd2_6.nDiv());
+// console.log('nd2 - not DIV 3  --------2022.04.01');
+// console.log('--6.) ' + nd2_6.nDiv());
+/*7. RANDOM  */
+console.log('nd2 - 07-multipl_table  --------2022.04.01');
+console.log('--7.) ' + nd2_7.mTable());
