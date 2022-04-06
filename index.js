@@ -8,6 +8,7 @@ const nd2_7 = require('./js/07-multipl_table.js');
 const nd2_7_a = require('./js/07-multipl_num.js');
 const nd2_8 = require('./js/08-inches.js');
 const nd2_9 = require('./js/09-bank.js');
+const nd2_10 = require('./js/10-leap_year.js');
 
 /*1. Labas FOR  */
 // console.log('nd2 - LABAS--------2022.04.01');
@@ -37,5 +38,8 @@ const nd2_9 = require('./js/09-bank.js');
 // console.log('nd2 - 08-Inches  --------2022.04.01');
 // console.log('--8.) ' + nd2_8.inches(9));
 /*9. BANK  */
-console.log('nd2 - 09-BANK  --"enter a PERIOD in years------2022.04.01');
-console.log('--9.) ' + nd2_9.bank(7));
+// console.log('nd2 - 09-BANK  --"enter a PERIOD in years------2022.04.01');
+// console.log('--9.) ' + nd2_9.bank(7));
+/*10. Leap YEAR  */
+console.log('nd2 - 10-leap year  --"enter a year------2022.04.01');
+console.log('-10.) ' + nd2_10.leap(1, 9999));
