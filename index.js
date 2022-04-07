@@ -12,34 +12,34 @@ const nd2_10 = require('./js/10-leap_year.js');
 
 /*1. Labas FOR  */
 // console.log('nd2 - LABAS--------2022.04.01');
-// console.log('--1.) ' + nd2_1.labas());
+ console.log('--1.) ' + nd2_1.labas());
 /*2. One Line  */
 // console.log('nd2 - To One Line --------2022.04.01');
-// console.log('--2.) ' + nd2_2.oL());
+ console.log('--2.) ' + nd2_2.oL());
 /*3. Step 10  */
 // console.log('nd2 - step 10  --------2022.04.01');
-// console.log('--3.) ' + nd2_3.step());
+ console.log('--3.) ' + nd2_3.step());
 /*4. for-49-53  */
 // console.log('nd2 - for-49-53  --------2022.04.01');
-// console.log('--4.) ' + nd2_4.four());
+ console.log('--4.) ' + nd2_4.four());
 /*5. RANDOM  */
 // console.log('nd2 - random  --------2022.04.01');
-// console.log('--5.) ' + nd2_5.random());
+ console.log('--5.) ' + nd2_5.random());
 /*6. DIV 3  */
 // console.log('nd2 - not DIV 3  --------2022.04.01');
-// console.log('--6.) ' + nd2_6.nDiv());
+ console.log('--6.) ' + nd2_6.nDiv());
 /*7. multiple table  */
 // console.log('nd2 - 07-multipl_table  --------2022.04.01');
-// console.log('--7.) ' + nd2_7.mTable());
+ console.log('--7.) ' + nd2_7.mTable());
 /*7_a. multiple table  */
 // console.log('nd2 - 07A-multiple_selected  --------2022.04.01');
-// console.log('--7_a.) ' + nd2_7_a.mTable(9));
+ console.log('--7_a.) ' + nd2_7_a.mTable(9));
 /*8. Inches  */
 // console.log('nd2 - 08-Inches  --------2022.04.01');
-// console.log('--8.) ' + nd2_8.inches(9));
+ console.log('--8.) ' + nd2_8.inches(9));
 /*9. BANK  */
 // console.log('nd2 - 09-BANK  --"enter a PERIOD in years------2022.04.01');
-// console.log('--9.) ' + nd2_9.bank(7));
+ console.log('--9.) ' + nd2_9.bank(7));
 /*10. Leap YEAR  */
-console.log('nd2 - 10-leap year  --"enter a year------2022.04.01');
-console.log('-10.) ' + nd2_10.leap(1, 9999));
+// console.log('nd2 - 10-leap year  --"enter a year------2022.04.01');
+ console.log('-10.) ' + nd2_10.leap(1, 9999));
